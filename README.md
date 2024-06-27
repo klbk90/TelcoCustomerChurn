@@ -61,7 +61,7 @@ Clone the repository:
 
 sh
 Копировать код
-git clone https://github.com/yourusername/TelcoCustomerChurn.git
+git clone https://github.com/klbk90/TelcoCustomerChurn.git
 cd TelcoCustomerChurn
 Install the required dependencies:
 
